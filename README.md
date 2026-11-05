@@ -41,3 +41,9 @@ Consultar [assets/LICENSE.md](assets/LICENSE.md).
 ## Autoría
 
 Rhynus Interactive Works (RIW).
+
+## Vista de la terminal
+
+![Terminal DOVELA RIW](assets/screenshots/dovela-terminal-ilustrativa.png)
+
+*Representación ilustrativa con datos de red y sistema ficticios.*
