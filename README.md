@@ -1,6 +1,6 @@
 # DOVELA RIW
 
-![Presentación ilustrativa de DOVELA RIW](assets/screenshots/dovela-presentacion.png)
+![Presentación ilustrativa de DOVELA RIW](assets/screenshots/dovela-presentacion.webp)
 
 *Imagen ilustrativa con datos de sistema genéricos.*
 
@@ -44,6 +44,6 @@ Rhynus Interactive Works (RIW).
 
 ## Vista de la terminal
 
-![Terminal DOVELA RIW](assets/screenshots/dovela-terminal-ilustrativa.png)
+![Terminal DOVELA RIW](assets/screenshots/dovela-terminal-ilustrativa.webp)
 
 *Representación ilustrativa con datos de red y sistema ficticios.*
