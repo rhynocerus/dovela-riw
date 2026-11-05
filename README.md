@@ -1,5 +1,10 @@
 # DOVELA RIW
 
+![Presentación ilustrativa de DOVELA RIW](assets/screenshots/dovela-presentacion.png)
+
+*Imagen ilustrativa con datos de sistema genéricos.*
+
+
 Terminal gráfica experimental para Linux, desarrollada por
 Rhynus Interactive Works (RIW).
 
