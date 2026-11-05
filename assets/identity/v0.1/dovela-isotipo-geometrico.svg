@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00E5FF"/><stop offset=".56" stop-color="#00FF84"/><stop offset="1" stop-color="#A6FF00"/></linearGradient><linearGradient id="arc" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00E5FF"/><stop offset=".6" stop-color="#00E5FF"/><stop offset="1" stop-color="#00FF84"/></linearGradient></defs>
+<rect x="12" y="12" width="232" height="232" rx="55" fill="none" stroke="url(#edge)" stroke-width="12"/>
+<!-- Cabeza de rinoceronte, silueta angular geométrica -->
+<path d="M43 133 L91 72 L132 66 L143 44 L171 33 L166 73 L201 98 L225 78 L223 112 L200 147 L168 140 L150 127" fill="none" stroke="#F4FAFF" stroke-width="10" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M163 102 L174 107" fill="none" stroke="#F4FAFF" stroke-width="6" stroke-linecap="round"/>
+<!-- Semicírculo dinámico -->
+<path d="M164 126 C95 132 54 160 61 186 C67 208 103 204 144 190 C105 216 47 220 38 187 C30 156 85 131 164 126 Z" fill="url(#arc)"/>
+<!-- Prompt de terminal -->
+<path d="M161 166 L186 187 L161 208" fill="none" stroke="#A6FF00" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M199 210 L225 210" fill="none" stroke="#A6FF00" stroke-width="11" stroke-linecap="round"/>
+</svg>

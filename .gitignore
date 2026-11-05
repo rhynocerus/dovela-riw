@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Respaldos y archivos temporales
+*.bak
+*.bak-*
+*.swp
+*~
+
+# Entorno local
+.env
+.env.*
+!.env.example
+
+# Editores
+.vscode/
+.idea/
+
+# Archivo visual local, no distribuir
+/ARCHIVOZ/
